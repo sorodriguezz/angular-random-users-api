@@ -7,4 +7,4 @@
 
 ### 1. Instalacion Angular
  - Para instalar angular necesitas tener nodejs para usar `npm` e instalar angular de manera global con:
- <code>npm install -g @angular/cli<code>
+ <pre><code>npm install -g @angular/cli<code><pre>
